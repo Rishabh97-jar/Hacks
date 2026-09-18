@@ -1,0 +1,46 @@
+🔥🔥🔥 ANISH EXPLOITS OTP BOMBER 🔥🔥🔥
+
+⚡ 1 HIT = 35+ OTPs | ⚡ NO LIMIT | ⚡ NO API KEY
+💣 TERMUX + PYTHON BASED ULTRA FAST BOMBER
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 HOW TO USE (STEP BY STEP)
+
+1️⃣ PLAY STORE ➔ Search "Termux" ➔ INSTALL
+
+2️⃣ OPEN TERMUX ➔ Run this command:
+   termux-setup-storage
+   👉 ALLOW storage permission
+
+3️⃣ RUN these commands one by one:
+   pkg update && pkg upgrade -y
+   pkg install python -y
+   pip install aiohttp colorama
+
+4️⃣ GOTO DOWNLOAD FOLDER:
+   cd /sdcard/Download
+
+5️⃣ CREATE BOMBER FILE:
+   nano bomber.py
+   👉 COPY & PASTE the bomber code
+   👉 Press CTRL + X ➔ Y ➔ ENTER
+
+6️⃣ RUN THE BOMBER:
+   python bomber.py
+
+7️⃣ ENTER 10 DIGIT NUMBER
+   ENTER HITS (1 to 500)
+   💥 BOOM! OTP BOMB STARTED 💥
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠️ WARNING ⚠️
+• EDUCATIONAL & TESTING PURPOSE ONLY
+• DON'T MISUSE ON OTHERS WITHOUT PERMISSION
+• USE ON YOUR OWN NUMBER FOR FUN
+
+💬 SUPPORT: @Anish_exploits
+🌐 WEBSITE: anishexploits.com
+
+🔥 POWERED BY ANISH EXPLOITS 🔥
